@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, sou Gabriel Marciotti Cordeiro</h1>
 <h3 align="center">Estudante e aspirante a analista de dados</h3>
 
-- 🔭 Atualmente estou buscando realocação no mercado / **Última experiência no banco Bradesco como gerente administrativo**
+- 🔭 Atualmente trabalho na 77 Sol como analista de customer success / **Foco em dados e automações**
 
-- 🌱 Atualmente estou estudando **SQL, Python e Power BI**
+- 🌱 Atualmente estou estudando **Data Analytics**
 
 - 👯 Meu objetivo atual é **entrar na área de dados e solidificar minha carreira**
 
